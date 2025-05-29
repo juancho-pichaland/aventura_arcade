@@ -1,0 +1,11 @@
+{
+    "player_pos": [
+        2,
+        1
+    ],
+    "score": 40,
+    "enemies_defeated": 1,
+    "items_collected": 1,
+    "levels_completed": 0,
+    "current_level": 0
+}
